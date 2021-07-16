@@ -1,0 +1,8 @@
+{
+    "name": "jeast/aad-sso-wordpress",
+    "description": "Fork of psignoret/aad-sso-wordpress with added composer support",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "^1.11"
+    }
+}
